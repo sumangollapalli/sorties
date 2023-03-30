@@ -1,0 +1,133 @@
+@media (max-width: 1199px) {
+	.container {width:100% !important;}
+}
+@media (max-width: 992px) {
+	.main_navbar .navbar-brand:after {display:none;}
+	.logo_mwidth {max-width:130px;transition-duration:.4s}
+	.main_navbar nav.navbar.affix ul.nav>li>a{padding:10px}
+	.main_navbar nav.navbar ul.nav>li:last-child{padding:0;display:none}
+	.banner_hero h2{font-size:44px;line-height:50px}
+	.banner_btn1,.banner_btn2{width:155px;height:47px}
+}
+@media (max-width: 991px) {
+	.featre_clm1 {width:50%;padding:15px}
+	.main_featre {width:100%;padding:40px 0}
+	.servic_col2 {width:100%;padding:10px 15px 0}
+	.servic_col1 {float:left;width:100%;padding:0 15px}
+	.sub_header2 {margin:20px 0 11px}
+	.pading_top1 {padding-top:0}
+	.main_skills {padding:40px 0 50px}
+	.counter_cl1 .counter{margin:auto 0;text-align:center}
+	.counter_cl1 p{margin:10px 0 0;text-align:left}
+	.footer_head {margin-bottom:22px;margin-top:15px;padding-bottom:14px}
+	.main_choose {padding:40px 0}
+	.big_header2 br{display:none!important}
+	.main_footer {padding:40px 0 30px}
+	.banner_hero h1{position:absolute;font-size:110px;line-height:1;opacity:.09;top:-65px}
+	.feature_hov h3 {font-size:22px;margin:0 0 15px;}
+	.feature_hov a {font-size:14px;}
+	.feature_hov {width:80%;}
+}
+@media (max-width: 767px) {
+	.sub_navbar1:after{width:40%}
+	.main_goals2 {float:left;width:100%;padding:0 20px 40px;min-height:auto}
+	.main_goals1 {width:100%;padding:40px;min-height:400px;background-attachment:fixed}
+	.main_help_1 .big_header2{text-align:center;color:#fff;margin-bottom:15px;font-size:35px}
+	.sub_header4 {font-size:15px;line-height:29px;font-weight:400;text-align:center;margin:0 0 30px}
+	.readmore_b2 {width:160px;height:45px}
+	.enqire_text {padding:0 0 41px}
+	.main_enqire {float:left;width:100%;padding:35px 0 50px}
+	.big_header2 {font-size:35px}
+	.choose_colw {padding:16px 20px}
+	.choose_icnw {position:relative;left:0;top:0;display:table;margin:auto}
+	.choose_colw h4{padding-bottom:10px}
+	.choose_icon {margin-bottom:0}
+	.choose_colw h4{text-align:center}
+	.choose_colw h4:before{left:50%;height:2px;width:100px;margin-left:-50px}
+	.choose_colw .main_parag1{font-size:15px;color:#666;text-align:center}
+	.footer_head {text-align:center}
+	.footer_head:before{left:50%;transform:translateX(-50%)}
+	.footer_nav1 li a{text-align:center}
+	.footer_nav2 li{text-align:center;padding:0;}
+	.footer_nav2 li i{margin-top:0;top:1px;margin-right:8px;position:relative;}
+	.main_footer .main_parag1{color:#d4d4d4;text-align:center}
+	.social_btn1 {text-align:center}
+	.margin_top1 {margin:20px 0;}
+}
+@media (max-width: 640px) {.head_social {
+    display: none;
+}
+	.sub_navbar1:after{display:none}
+	.slider_btn1 {right:3%;}
+	.feature_clm {padding:0 15px;float:left;width:100%}
+	.sub_banner1 {float:left;width:100%;padding:30px 0}
+	.goals_icon1 {width:60px;height:60px;border-radius:60px}
+	.goals_icon1 img{max-width:35px}
+	.goals_sect1{padding:0 15px 30px 75px}
+	.main_abouts.inner_about1{padding:40px 0 0}
+	.main_abouts.inner_contct{padding:40px 0}
+	.sub_banner1 h3 {font-size:24px;margin-bottom:3px;}
+	.sub_banner1 ul li {font-size:13px;}
+	.inner_abut3 {padding-left:14px;}
+	.inner_abut2 {padding:30px 0 40px;}
+	.feature_cl3 {padding:5px;}
+}
+@media (max-width: 540px) {.prodct_img1 { 
+    height: 116px;}.smal_head_2 { 
+    font-size: 14px; 
+    line-height: 19px;}
+	.head_contct li{font-size:11px;padding:11px 8px 11px 0;margin-right:1px}
+	.banner_hero h2{font-size:32px;line-height:40px}
+	.banner_hero h1{position:absolute;font-size:70px;line-height:1;opacity:.09;top:-45px}
+	.servic_icon {max-width:60px;margin-bottom:14px;max-height:44px}
+	.sub_header1 {font-size:18px;margin:0 0 2px;}
+	.big_header2 {font-size:28px}
+	.sub_header2 {font-size:16px}
+	.sub_header2:before{width:35px;height:3px;margin:8px 15px 0 0}
+	.sub_header3 {font-size:15px;line-height:24px}
+	.main_help_1 .sub_header3 span{font-size:18px}
+	.sub_header4 {margin:0 0 15px}
+	.main_servic {width:100%;padding:30px 0 40px}
+	.main_enqire .big_header2{color:#fff;line-height:36px}
+	.contact_frm {padding:25px 10px}
+	.choose_colw h4{padding-bottom:13px;font-size:16px}
+	.main_help_1 .big_header2{margin-bottom:15px;font-size:25px}
+	.main_help_1 {padding:40px 0}
+	.banner_hero h2{font-size:26px;line-height:33px;margin-bottom:10px;}
+	.banner_btn1,.banner_btn2{width:129px;height:36px;font-size:13px}
+	.featre_clm1 {width:100%;padding:15px}
+	.choose_col1 {float:left;width:50%;padding:0}
+	.main_goals1 {min-height:271px}
+	.big_header2 {font-size:23px}
+	.counter_cl1 .counter{display:table;width:120px;height:120px}
+	.counter_cl1 .counter h2{line-height:107px;font-size:19px}
+	.main_brands {padding:30px 0}
+	.banner_hero h1{position:absolute;font-size:50px}
+	.main_banner .carousel-control{width:30px;height:30px;text-shadow:none;font-size:20px;line-height:32px}
+	.main_choose {padding:40px 0 30px}
+	.sub_header4 {font-size:13px;line-height:23px}
+	.main_enqire .big_header2{color:#fff;line-height:29px;font-size:19px}
+	.form{height:40px;width:100%;padding:11px;margin-bottom:9px}
+	.main_navbar .affix .logo_mwidth{max-width:106px}
+	.main_navbar nav.navbar .navbar-header{margin-bottom:0;position:relative;margin:0;padding:4px 0}
+	.main_navbar nav.navbar .navbar-toggle{margin-right:10px;margin-top:12px;margin-bottom:0;font-size:24px}
+	.footer_copy {padding:10px}
+	.logo_mwidth {max-width:80px;transition-duration:.4s}
+	.main_navbar .affix .logo_mwidth{max-width:80px}
+	.choose_icon {margin-right:10px}
+	.big_header2 {font-size:20px;line-height:27px;margin:0 0 10px}
+	.big_header2 br {display:none !important;}
+	.main_skills .big_header2{color:#fff;line-height:28px}
+	.goals_sect1{padding:0 15px 10px 75px}
+	.main_abouts {padding:10px 0 40px}
+	.choose_colw .main_parag1{margin-bottom:0}
+	.google_map1 {width:100%;height:300px;}
+	.footer_nav1 li {margin-bottom:0;}
+}
+@media (max-width: 420px) {
+	.form_width1 {width:100% !important;}
+	.form {width: 100%;padding: 12px;margin-bottom:9px;height:40px;}
+	.form2s {width: 100%;padding: 12px;margin-bottom:9px;height:40px;}
+	.feature_hov h3{font-size:17px;margin:0 0 5px;font-weight:600}
+	.feature_hov a{font-size:12px;font-weight:500}
+}
